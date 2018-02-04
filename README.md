@@ -53,7 +53,7 @@ Note: You can open the app with any of your desired react-native simulators. We 
 
 ## Mobile Version of App (React-native)
 
-![React-native](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/react-native.png)
+![React-native](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/React-native-2.png)
 
 ### Making changes and deploying
 
