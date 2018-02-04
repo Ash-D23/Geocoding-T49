@@ -16,6 +16,8 @@ To get location name for a set of coordinate: Enter latitude in first row and lo
 
 To get coordinates for a location name: Enter location name in anyone of two rows and press the button. An alert box pops up with coordinates.
 
+![React-native](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/React-native-2.png)
+
 # Steps to setup the app in your PC
 This project is bootstrapped with Create-React-Native-App(CRNA).Follow the below steps to setup this app in your PC.
 
