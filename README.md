@@ -49,7 +49,7 @@ Note: You can open the app with any of your desired react-native simulators. We 
 ```
 ## Web version of App (React-JS)
 
-![React-JS](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/react-js.png)
+![React-JS](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/react-js-2.png)
 
 ## Mobile Version of App (React-native)
 
