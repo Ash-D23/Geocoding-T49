@@ -30,7 +30,7 @@ In order to get this app running, you must have the following:
 * The `hasura quickstart` command clones the project repository to your local computer, and also creates a **free Hasura cluster**, where the project will be hosted for free.
 * A git remote (called hasura) is created and initialized with your project directory.
 * Now get your cluster name using `hasura cluster status` and modify the App.js file inside `microservices/ui/app/src` and change the cluster name in from airborne24 -> your cluster-name. 
-* Modify the server.js file inside `microservices/ui/app/src` and change the Api key
+* Modify the server.js file inside `microservices/api/src` and change the Api key
 * Run `git add .`, `git commit`, and `git push hasura master`.
 * Run the below command to open your shiny new deployed Geocoding app.
 ``` shell
