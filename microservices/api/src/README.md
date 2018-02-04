@@ -10,8 +10,8 @@
 ## To execute the file Clone the project and follow the steps :
 
 ### Type the following in the url and see the results :
-    * http://<cluster-name>/api/address?origin={origin-address}&destination={destination-address},
-    * http://<cluster-name>/api/location/{location},
-    * http://<cluster-name>/api/coordinates?lat={latitude}&long={longitude}
+     http://<cluster-name>/api/address?origin={origin-address}&destination={destination-address},
+     http://<cluster-name>/api/location/{location},
+     http://<cluster-name>/api/coordinates?lat={latitude}&long={longitude}
     
 `Replace {} with the inputs you want and note to replace the API key inside server.js with your own key`
