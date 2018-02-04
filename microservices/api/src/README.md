@@ -15,3 +15,5 @@
      http://<cluster-name>/api/coordinates?lat={latitude}&long={longitude}
     
 `Replace {} with the inputs you want and note to replace the API key inside server.js with your own key`
+
+![Api](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/api.png)
