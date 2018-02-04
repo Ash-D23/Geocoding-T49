@@ -7,6 +7,10 @@
 2) Time taken to travel from the source to the destination.
 3) A Google Maps link to show the directions.
    If only the coordinates are known, then convert the coordinates to its address first using the coordinates-to-address calculator available on the same webapp.
+   
+![React-JS](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/react-js-1.png)
+
+![React-JS](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/react-js-2.png)
 
 **To get this app to run, perform the following steps-**
 
@@ -21,5 +25,6 @@
 5) Now type the command `hasura cluster status`to get your cluster name. Make sure that you are in the hello-react folder by using the `cd hello-react` command.
 6) Now modify the package.json file inside *microservices/ui/app/package.json*. Assign your cluster name to REACT_APP_CLUSTER_NAME environment variable.
 7) Now replace the contents of your hello-react's *microservice/ui/app/src* folder with the contents of this repository's *microservices/ui/app/src* folder. Also replace the index.html file in *microservice/ui/app/public* with this repository's index.html file available in the same location.
-8) Now we will push the contents of your hello-react folder to your cluster. To do this, type the command `git add . && git commit -m "First commit"` and then type `git push hasura master`.
-9) Now run the command `hasura microservice open ui` to view this react app. 
+8) Change the cluster name in the file App.js from `microservices/ui/app/src`and make the necessary changes in the backend api present in the `microservices/api/src`
+9) Now we will push the contents of your hello-react folder to your cluster. To do this, type the command `git add . && git commit -m "First commit"` and then type `git push hasura master`.
+10) Now run the command `hasura microservice open ui` to view this react app. 
