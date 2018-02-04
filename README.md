@@ -39,7 +39,7 @@ $ hasura microservice open ui
 
 ### Opening the Mobile app (React-Native)
 
-- Open Expo XDE, do a login/signup and click on `Open existing project...`. Browse to the hello-react-native directory and open the react-native folder.
+- Open Expo XDE, do a login/signup and click on `Open existing project...`. Browse to the Geocoding-T49 directory and open the react-native folder.
 - Once the project loads, click on Share.
 - Scan the QR code using the Expo app from your phone (Install from Playstore/Appstore)
 - Fully working app will open on your phone
